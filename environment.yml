@@ -1,0 +1,14 @@
+name: green
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - notebook
+  - pandas
+  - ipywidgets
+  - numpy
+  - jupyter
+  - plotly
+  - python-kaleido
+  - scipy
+prefix: /home/user/miniconda3/envs/green
